@@ -1,13 +1,13 @@
 # Unihiker-k10-AI-cam-untuk-xiaozhi-AI
 Unihiker k10 AI cam untuk xiaozhi AI
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e80c414c-22c8-4b92-a122-ca81beea2023" />
+<img width="360" height="640" alt="UNIHIKER K10 Xiaozhi preview 1" src="docs/readme-images/k10-1.jpg" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f3282d00-0d52-424f-9757-df0c278902dc" />
+<img width="360" height="640" alt="UNIHIKER K10 Xiaozhi preview 2" src="docs/readme-images/k10-2.jpg" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/be25d21e-3900-498c-a855-b076f650a7da" />
+<img width="360" height="640" alt="UNIHIKER K10 Xiaozhi preview 3" src="docs/readme-images/k10-3.jpg" />
 
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a768f41-2aee-41d5-a47e-5fad4c3fa6ff" />
+<img width="360" height="640" alt="UNIHIKER K10 Xiaozhi preview 4" src="docs/readme-images/k10-4.jpg" />
 
 Panduan Penggunaan UNIHIKER K10 Xiaozhi
 Dokumen ini menjelaskan cara menggunakan firmware Xiaozhi pada DFRobot UNIHIKER K10, mulai dari fungsi tombol, perintah suara Bahasa Indonesia, tools aktif, kamera, kartu SD, sensor, lampu RGB, Wi-Fi, hingga troubleshooting.
